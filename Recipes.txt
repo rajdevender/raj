@@ -4,3 +4,5 @@ burger
 pasta
 beans
 coco
+butter panner
+french fry
