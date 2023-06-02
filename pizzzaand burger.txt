@@ -1,0 +1,6 @@
+recipes from the dominoans
+
+1.go to website 
+2.select the item 
+3.click the order button
+4.pay the amount
